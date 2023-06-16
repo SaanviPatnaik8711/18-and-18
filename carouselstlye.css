@@ -1,0 +1,35 @@
+.container{
+    background-color: mediumaquamarine;  
+  }
+  #app {
+      background-color: aliceblue;
+  }
+  
+  #myCarousel
+  {
+      background-color: red;
+  }
+  
+  #myCarousel img
+  {
+      height: 300px;
+      margin-top: 35px;
+  }
+  
+  .carousel-inner p
+  {
+      margin-top: 15px;
+      color : white;
+      font-size: 20px;
+  }
+  
+  .line{
+  width: 400px;
+  height: 10px;
+  background-color:black;
+  }
+
+  body{
+    background-image: linear-gradient(to right top, #f133d4, #af25d9, #6854fe, #6854fe, #ff0464);
+font-family: Georgia, 'Times New Roman', Times, serif;
+  }
